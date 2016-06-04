@@ -1,6 +1,6 @@
 {
   "name": "Kantjoe.github.io",
   "tagline": "Welcome To kant's Repos",
-  "body": "#none show",
+  "body": "#none show\r\n<script>console.log(1);</script>",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
